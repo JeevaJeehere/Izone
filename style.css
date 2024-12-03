@@ -1,0 +1,29 @@
+footer{
+    background: #1C325B;
+    
+}
+footer .nav a{
+    color: white;
+}
+/* .icon{
+    rotate: 45deg;
+} */
+.bgc{
+    background-color: #D4EBF8;
+}
+.bglogo{
+    background-color: #37AFE1;
+}
+.hc{
+    color: #001F3F;
+}
+.bbg{
+    background-color: #F2F9FF;
+}
+.bbg1{
+    background-color: #0D92F4;
+}
+.imgc{
+    filter:brightness(.5)
+
+}
